@@ -19,9 +19,9 @@ import java.util.List;
 @SpringBootApplication
 public class StageApplication implements CommandLineRunner {
 
-	@Autowired
-	RoleRepository roleRepo ;
-
+//	@Autowired
+//	RoleRepository roleRepo ;
+//
 //	@Autowired
 //	PermissionRepository permRepo ;
 
